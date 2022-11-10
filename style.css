@@ -1,0 +1,26 @@
+.fa-solid:hover {
+    color: orange;
+  }
+#test{
+    text-align: center;
+    font-size: 1rem ;
+   
+}
+#test1{
+    text-align: center;
+    background-color: rgb(184, 200, 230);
+    font-size: 1rem ;
+}
+#test2{
+    text-align: center;
+    background-color: rgb(238, 241, 247);
+    font-size: 1rem ;
+}
+.comment {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    background-color: #d0e2bc;
+    font: 1.4em/1.6em cursive;
+    color: #152027;
+  }
